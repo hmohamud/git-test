@@ -1,0 +1,2 @@
+Adding text to test out git functionality
+Going to see how the commit process works
